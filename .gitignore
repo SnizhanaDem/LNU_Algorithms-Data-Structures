@@ -1,0 +1,43 @@
+# Visual Studio build directories
+x64/
+Debug/
+Release/
+.vs/
+
+# Build artifacts
+*.ilk
+*.exe
+*.exe.recipe
+*.lib
+*.obj
+*.pdb
+*.pch
+
+# Visual Studio project user files
+*.vcxproj.user
+*.sln.DotSettings
+*.sln.DotSettings.user
+
+# NuGet packages
+packages/
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# CMake build directory
+cmake-build-debug/
+cmake-build-release/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
